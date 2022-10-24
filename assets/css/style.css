@@ -166,6 +166,8 @@ margin: 0 auto;
     background: url("../images/ethos-center-image.jpg") no-repeat center center;
     height:100%;
     border-radius: 50%;
+
+    /* Event Times */
     
 }
 #times {
