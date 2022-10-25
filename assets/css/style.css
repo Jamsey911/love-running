@@ -251,6 +251,12 @@ footer {
     hr {
         display: none;
     }
+    #times > div {
+        width:100%;
+        clear:both;
+        height:150px;
+        padding:0;
+    }
 }
 
 /* For mediem screen sizes from 950px wide and down */
